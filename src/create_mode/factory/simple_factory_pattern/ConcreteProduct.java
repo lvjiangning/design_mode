@@ -10,6 +10,6 @@ public class ConcreteProduct implements Product {
 
 	@Override
 	public void product() {
-		System.out.println("创造产品。。。");
+		System.out.println("具体产品。。。");
 	}
 }
